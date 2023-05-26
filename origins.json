@@ -1,5 +1,26 @@
 {
+  "alias": {
+    "wiki": "https://zh.wikipedia.org",
+    "wikizh": "https://zh.wikipedia.org",
+    "wikien": "https://en.wikipedia.org",
+    "youtube": "https://www.youtube.com",
+    "reddit": "https://reddit.com",
+    "google": "https://www.google.com",
+    "gdocs": "https://docs.google.com",
+    "flexbox": "https://flexboxfroggy.com",
+    "cssgrid": "https://cssgridgarden.com"
+  },
+  
   "https://zh.wikipedia.org": [
+    "https://wikimedia.org",
+    "https://upload.wikimedia.org",
+    "//wikimedia.org",
+    "//upload.wikimedia.org",
+    "//zh.wikipedia.org",
+    "//en.wikipedia.org",
+    "//wikipedia.org"
+  ],
+  "https://en.wikipedia.org": [
     "https://wikimedia.org",
     "https://upload.wikimedia.org",
     "//wikimedia.org",
