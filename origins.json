@@ -1,0 +1,38 @@
+{
+  "https://zh.wikipedia.org": [
+    "https://wikimedia.org",
+    "https://upload.wikimedia.org",
+    "//wikimedia.org",
+    "//upload.wikimedia.org",
+    "//zh.wikipedia.org",
+    "//en.wikipedia.org",
+    "//wikipedia.org"
+  ],
+  "https://reddit.com": [
+    "https://www.reddit.com",
+    "https://www.redditstatic.com",
+    "https://styles.redditmedia.com",
+    "https://a.thumbs.redditmedia.com",
+    "https://b.thumbs.redditmedia.com",
+    "https://preview.redd.it",
+    "https://external-preview.redd.it",
+    "https://w3-reporting.reddit.com",
+    "https://gql.reddit.com",
+    "https://emoji.redditmedia.com",
+    "https://i.redd.it"
+  ],
+  "https://www.youtube.com": [
+    "https://www.gstatic.com",
+    "https://i.ytimg.com",
+    "https://yt3.ggpht.com",
+    "https://rr1---sn-i3b7knsl.googlevideo.com",
+    "https://rr2---sn-npoe7ns6.googlevideo.com",
+    "https://rr3---sn-i3belnl6.googlevideo.com",
+    "https://rr4---sn-i3belnls.googlevideo.com",
+    "https://rr4---sn-5go7ynl6.googlevideo.com",
+    "https://rr5---sn-5go7ynl6.googlevideo.com",
+    "https://rr5---sn-i3belnl7.googlevideo.com"
+  ]
+  "https://flexboxfroggy.com": [],
+  "https://cssgridgarden.com": [],
+}
