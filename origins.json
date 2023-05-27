@@ -63,6 +63,13 @@
     "https://rr5---sn-i3belnl7.googlevideo.com",
     "https://rr5---sn-i3bssn7e.googlevideo.com"
   ],
+  "https://docs.google.com": [
+    "https://apis.google.com",
+    "https://play.google.com",
+    "https://lh4.googleusercontent.com",
+    "https://lh6.googleusercontent.com",
+    "https://peoplestackwebexperiments-pa.clients6.google.com"
+  ],
   "https://flexboxfroggy.com": [],
   "https://cssgridgarden.com": []
 }
