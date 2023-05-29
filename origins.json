@@ -78,8 +78,15 @@
     "https://lh6.googleusercontent.com",
     "https://peoplestackwebexperiments-pa.clients6.google.com"
   ],
-  "https://hackmd.io": [],
-  "https://stackoverflow.com": [],
+  "https://hackmd.io": [
+    "https://assets.hackmd.io",
+    "https://www.google.com",
+    "https://accounts.google.com",
+    "https://v5.airtableusercontent.com"
+  ],
+  "https://stackoverflow.com": [
+    "https://ajax.googleapis.com"
+  ],
   "https://flexboxfroggy.com": [],
   "https://cssgridgarden.com": []
 }
