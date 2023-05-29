@@ -80,8 +80,12 @@
   ],
   "https://hackmd.io": [
     "https://assets.hackmd.io",
+    "https://sentry.hackmd.dev",
+    "https://browser.sentry-cdn.com",
     "https://www.google.com",
     "https://accounts.google.com",
+    "https://apis.google.com",
+    "https://www.dropbox.com",
     "https://v5.airtableusercontent.com"
   ],
   "https://stackoverflow.com": [
