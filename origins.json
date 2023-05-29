@@ -9,6 +9,8 @@
     "github": "https://github.com",
     "google": "https://www.google.com",
     "gdocs": "https://docs.google.com",
+    "hackmd": "https://hackmd.io",
+    "stackof": "https://stackoverflow.com",
     "flexbox": "https://flexboxfroggy.com",
     "cssgrid": "https://cssgridgarden.com"
   },
@@ -76,6 +78,8 @@
     "https://lh6.googleusercontent.com",
     "https://peoplestackwebexperiments-pa.clients6.google.com"
   ],
+  "https://hackmd.io": [],
+  "https://stackoverflow.com": [],
   "https://flexboxfroggy.com": [],
   "https://cssgridgarden.com": []
 }
